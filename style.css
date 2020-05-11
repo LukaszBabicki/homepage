@@ -1,0 +1,42 @@
+   body {
+       background: lightskyblue;
+
+   }
+
+   section {
+       background: lightgrey;
+   }
+
+
+   h1 {
+       color: #1460AA;
+   }
+
+   p {
+       color: black;
+   }
+
+   h2 {
+       color: #1460AA;
+   }
+
+
+   .new-header {
+       color: red;
+   }
+
+   .main-header {
+       background: lightgray;
+   }
+
+   .second-header {
+       color: darkblue;
+   }
+
+   .myth-border {
+       background: grey;
+   }
+
+   .bike-footer {
+       background:red;
+   }
